@@ -89,5 +89,5 @@ int aroundSign (int number){
 
 //Finde die kleinste Zahl
 int smallNumber(int firstNumber, int secondNumber) {
-  return (firstNumber < secondNumber) ? secondNumber : firstNumber;
+  return (firstNumber > secondNumber) ? secondNumber : firstNumber;
 }

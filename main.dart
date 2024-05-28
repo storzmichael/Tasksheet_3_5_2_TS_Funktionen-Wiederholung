@@ -13,7 +13,7 @@ void main() {
 
   print(aroundSign(-5));
 
-
+  print(smallNumber(4, 3));
 
 
 }
